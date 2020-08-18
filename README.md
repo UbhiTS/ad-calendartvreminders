@@ -1,6 +1,6 @@
-# :TV::calendar: Calendar TV Notifications :chicken:
+# :tv::calendar: Calendar TV Notifications :chicken:
 
-If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :TV::calendar: App. This app will (like a faithful assistant) keep reminding you every time you turn on your TV about the upcoming events in the next 15 days. There is no chance that you will not turn on your TV every day, so there is absolutly no chance that you will ever forget an important day if your TV is the one reminding you :stuck_out_tongue_winking_eye:
+If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :tv::calendar: App. This app will (like a faithful assistant) keep reminding you every time you turn on your TV about the upcoming events in the next 15 days. There is no chance that you will not turn on your TV every day, so there is absolutly no chance that you will ever forget an important day if your TV is the one reminding you :stuck_out_tongue_winking_eye:
 
 This app has been a lifesaver. My friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
 
