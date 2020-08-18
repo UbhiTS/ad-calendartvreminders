@@ -1,8 +1,8 @@
 # :tv::calendar: Calendar TV Notifications :chicken:
 
-If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :tv::calendar: App. This app will (like a faithful assistant) keep reminding you every time you turn on your TV about the upcoming events in the next 15 days. There is no chance that you will not turn on your TV every day, so there is absolutly no chance that you will ever forget an important day if your TV is the one reminding you :stuck_out_tongue_winking_eye:
+If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :tv::calendar: App. This app will (like a faithful assistant) keep reminding you **every time you turn on your TV** about the upcoming events in the next 15 days. I'm sure you turn on your TV atleast once a day, so there is absolutly no chance that you will ever forget an important day of the year, if your TV is the one reminding you about it :stuck_out_tongue_winking_eye:
 
-This app has been a lifesaver. My friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
+This app has been a lifesaver. My family and friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
 
 Please ⭐ this repo if you like my work and also check out my other repos like
 - [Home Assistant 'STEROIDS' Configuration](https://github.com/UbhiTS/ha-config-ataraxis)
@@ -52,7 +52,7 @@ key | description
 ## Thank you! :raised_hands:
 If you like my work and feel gracious, you can buy me a beer below ;)
 
-Currently tested and working with LG Smart TVs, but it can hopefully be compatible with other Smart TVs as well. If the app doesn't work for you, feel free to log a bug to the repo and I'll try to fix it asap.
+Currently tested and working with LG WebOS Smart TVs, but hopefully it will work with other Smart TVs. If your TV does not work, feel free to log a bug or CR to the repo and I'll try to get it working at the earliest.
 
 <a href="https://www.buymeacoffee.com/ubhits" target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
