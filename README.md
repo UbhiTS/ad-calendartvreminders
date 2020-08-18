@@ -1,4 +1,4 @@
-# :tv::calendar: Calendar TV Notifications :chicken:
+# :tv::calendar: Calendar TV Reminders :chicken:
 
 If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :tv::calendar: App. This app will (like a faithful assistant) keep reminding you **every time you turn on your TV** about the upcoming events in the next 15 days. I'm sure you turn on your TV atleast once a day, so there is absolutly no chance that you will ever forget an important day of the year, if your TV is the one reminding you about it :stuck_out_tongue_winking_eye:
 
@@ -28,9 +28,9 @@ Use [HACS](https://github.com/custom-components/hacs) or [download](https://gith
 
 ### Configuration (config/appdaemon/apps/apps.yaml)
 ```yaml
-calendar_tv_notifications:
-  module: calendar_tv_notifications
-  class: CalendarTVNotifications
+calendar_tv_reminders:
+  module: calendar_tv_reminders
+  class: CalendarTVReminders
   tv: media_player.tv_living_room
   calendars:
     - calendar.important_dates
