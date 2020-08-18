@@ -4,6 +4,10 @@ If you're like me :sleeping:, who forgets important days in the year, like a fri
 
 This app has been a lifesaver. My family and friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
 
+Screenshot 1 | Screenshot 2
+-- | --
+![GitHub Logo](https://ubhits.s3.amazonaws.com/tv_cal_notify/TVCalNotify01.jpeg) | ![GitHub Logo](https://ubhits.s3.amazonaws.com/tv_cal_notify/TVCalNotify02.jpeg)
+
 Please ⭐ this repo if you like my work and also check out my other repos like
 - [Home Assistant 'STEROIDS' Configuration](https://github.com/UbhiTS/ha-config-ataraxis)
 - [Alexa (& Friends) Talking Clock](https://github.com/UbhiTS/ad-alexatalkingclock)
