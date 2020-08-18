@@ -24,7 +24,7 @@ Also, if you want to see a walkthrough of my Home Assistant configuration, I hav
 - [Google Calendar](https://www.home-assistant.io/integrations/calendar.google/)
 - [LG WebOS Smart TV](https://www.home-assistant.io/integrations/webostv/)
 
-Use [HACS](https://github.com/custom-components/hacs) or [download](https://github.com/UbhiTS/ad-tvcalendarnotifications) the `tv_calendar_notifications_controller.py` from inside the `apps` directory to your local `apps` directory, and add the configuration to enable the app.
+Use [HACS](https://github.com/custom-components/hacs) or [download](https://github.com/UbhiTS/ad-tvcalendarnotifications) the `calendar_tv_notifications.py` from inside the `apps` directory to your local `apps` directory, and add the configuration to enable the app.
 
 ### Configuration (config/appdaemon/apps/apps.yaml)
 ```yaml
