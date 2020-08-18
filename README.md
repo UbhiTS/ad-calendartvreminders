@@ -41,12 +41,12 @@ tv_calendar_notifications:
 
 key | description
 -- | --
-`module` | The module name of the app.
-`class` | The name of the Class.
-`tv` | The TV (media_player) to send the notification to. Currently tested with only LG WebOS Smart TVs
-`calendars` | The Google Calendars (list) to query.
-`notifications/service` | The Google Calendars (list) to query.
-`notifications/triggers` | From the moment the TV turns on, after how many seconds to send the notification to the TV.
+`module` | The module name of the app
+`class` | The name of the Class
+`tv` | The TV (media_player) to send the notification to. **Currently tested with only LG WebOS Smart TVs**
+`calendars` | The Google Calendars (list, one or multiple) to query
+`notifications/service` | The TV Notifications Service to be called for your TV. Normally it's "notify/<your tv name>"
+`notifications/triggers` | From the moment the TV turns on, after how many seconds to send the notifications to the TV. You may define multiple triggers, e.g. 5 seconds, 5 minutes (300 seconds)
 `debug` | if True, outputs messages to the AppDaemon Log
 
 ## Thank you! :raised_hands:
