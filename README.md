@@ -1,6 +1,6 @@
 # :tv::calendar: Calendar TV Reminders :chicken:
 
-If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :tv::calendar: App. This app will (like a faithful assistant) keep reminding you **every time you turn on your TV** about the upcoming events in the next 15 days. I'm sure you turn on your TV atleast once a day, so there is absolutly no chance that you will ever forget an important day of the year, if your TV is the one reminding you about it :stuck_out_tongue_winking_eye:
+If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, or an insurance due date :motorcycle: etc; say hello to the Calendar TV Reminders :tv::calendar: App. This app will (like a faithful assistant) keep reminding you **every time you turn on your TV** about any upcoming event(s) in the next 15 days. We all turn on our TVs atleast once a day, so there is absolutly no chance that you will ever forget an important day of the year if your TV is the one reminding you about it :stuck_out_tongue_winking_eye:
 
 This app has been a lifesaver. My family and friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
 
@@ -24,7 +24,7 @@ Also, if you want to see a walkthrough of my Home Assistant configuration, I hav
 - [Google Calendar](https://www.home-assistant.io/integrations/calendar.google/)
 - [LG WebOS Smart TV](https://www.home-assistant.io/integrations/webostv/)
 
-Use [HACS](https://github.com/custom-components/hacs) or [download](https://github.com/UbhiTS/ad-tvcalendarnotifications) the `calendar_tv_notifications.py` from inside the `apps` directory to your local `apps` directory, and add the configuration to enable the app.
+Use [HACS](https://github.com/custom-components/hacs) or [download](https://github.com/UbhiTS/ad-tvcalendarreminders) the `calendar_tv_notifications.py` from inside the `apps` directory to your local `apps` directory, and add the configuration to enable the app.
 
 ### Configuration (config/appdaemon/apps/apps.yaml)
 ```yaml
