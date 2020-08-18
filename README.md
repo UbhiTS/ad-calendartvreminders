@@ -28,7 +28,7 @@ Use [HACS](https://github.com/custom-components/hacs) or [download](https://gith
 
 ### Configuration (config/appdaemon/apps/apps.yaml)
 ```yaml
-tv_calendar_notifications:
+calendar_tv_notifications:
   module: calendar_tv_notifications_controller
   class: CalendarTVNotificationsController
   tv: media_player.tv_living_room
