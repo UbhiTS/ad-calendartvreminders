@@ -18,7 +18,7 @@ from datetime import datetime, time
 #      - 5
 #  debug: false
 
-class TVCalendarNotificationsController(hass.Hass):
+class CalendarTVNotificationsController(hass.Hass):
 
   def initialize(self):
 
