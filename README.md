@@ -1,6 +1,8 @@
-# Calendar TV Notifications :chicken:
+# :TV::calendar: Calendar TV Notifications :chicken:
 
-How many times has it been that you have forgotten your sister's birthday, or your friends anniversary? Well, it doesn't matter, say hello to the Calendar TV Notifications app. Currently tested with LG Smart TVs, but it can hopefully be compatible with other Smart TVs as well. If the app doesn't work for you, feel free to log a bug to the repo and I'll try to fix it asap.
+If you're like me :sleeping:, who forgets important days in the year, like a friends birthday :birthday:, anniversary :gift:, and insurance due date :motorcycle: etc; say hello to the HA Calendar TV Notifications :TV::calendar: App. This app will (like a faithful assistant) keep reminding you every time you turn on your TV about the upcoming events in the next 15 days. There is no chance that you will not turn on your TV every day, so there is absolutly no chance that you will ever forget an important day if your TV is the one reminding you :stuck_out_tongue_winking_eye:
+
+This app has been a lifesaver. My friends are now plesantly surprised at how good I am at remembering birthdays. Little do they know ;)
 
 Please ⭐ this repo if you like my work and also check out my other repos like
 - [Home Assistant 'STEROIDS' Configuration](https://github.com/UbhiTS/ha-config-ataraxis)
@@ -49,6 +51,8 @@ key | description
 
 ## Thank you! :raised_hands:
 If you like my work and feel gracious, you can buy me a beer below ;)
+
+Currently tested and working with LG Smart TVs, but it can hopefully be compatible with other Smart TVs as well. If the app doesn't work for you, feel free to log a bug to the repo and I'll try to fix it asap.
 
 <a href="https://www.buymeacoffee.com/ubhits" target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
