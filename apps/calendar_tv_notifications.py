@@ -2,7 +2,7 @@ import appdaemon.plugins.hass.hassapi as hass
 from datetime import datetime, time
 
 #
-# TV Calendar Notifications Controller App
+# Calendar TV Notifications Controller App
 #
 # Args:
 # calendar_tv_notifications:
